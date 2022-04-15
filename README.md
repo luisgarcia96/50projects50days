@@ -1,8 +1,5 @@
 ﻿# 50projects50days
 
-| #    | Project         | Live Demo                                                                                                  |
-| :--: |:---------------:| :----------------------------------------------------------------------------------------------------------|
-| 01   | Expanding Cards | [Live Demo]()         |
-<!-- | 02   | Expanding Cards | [Live Demo]()         | -->
+[LIVE DEMO!](https://luisgarcia96.github.io/50projects50days/)
 
 
